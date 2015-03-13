@@ -1,11 +1,11 @@
-# calc-percent [![Build Status](http://img.shields.io/travis/kevva/to-percent.svg?style=flat)](https://travis-ci.org/kevva/to-percent)
+# calc-percent [![Build Status](http://img.shields.io/travis/kevva/calc-percent.svg?style=flat)](https://travis-ci.org/kevva/calc-percent)
 
 > Calculate percentage
 
 ## Install
 
 ```bash
-$ npm install --save to-percent
+$ npm install --save calc-percent
 ```
 
 ## Usage
