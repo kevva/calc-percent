@@ -1,0 +1,25 @@
+{
+  "name": "calc-percent",
+  "version": "1.0.0",
+  "description": "Calculate percent",
+  "license": "MIT",
+  "repository": "kevva/calc-percent",
+  "author": {
+    "name": "Kevin Mårtensson",
+    "email": "kevinmartensson@gmail.com",
+    "url": "https://github.com/kevva"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [],
+  "devDependencies": {
+    "ava": "^0.0.4"
+  }
+}
