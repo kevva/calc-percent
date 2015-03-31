@@ -2,11 +2,13 @@
 
 > Calculate percentage
 
+
 ## Install
 
-```bash
+```
 $ npm install --save calc-percent
 ```
+
 
 ## Usage
 
@@ -23,9 +25,10 @@ calcPercent(100 / 3, 100, {decimal: 2});
 //=> 33.33
 ```
 
+
 ## API
 
-### calcPercent(val, total, opts)
+### calcPercent(val, total, options)
 
 #### val
 
@@ -39,18 +42,19 @@ Type: `number`
 
 Total that `val` should be compared against.
 
-#### opts.decimal
+#### options.decimal
 
 Type: `number`  
 Default: `0`
 
 Number of decimals.
 
-#### opts.suffix
+#### options.suffix
 
 Type: `string`
 
 Append a suffix.
+
 
 ## License
 
