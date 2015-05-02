@@ -1,4 +1,4 @@
-# calc-percent [![Build Status](http://img.shields.io/travis/kevva/calc-percent.svg?style=flat)](https://travis-ci.org/kevva/calc-percent)
+# calc-percent [![Build Status](https://travis-ci.org/kevva/calc-percent.svg?branch=master)](https://travis-ci.org/kevva/calc-percent)
 
 > Calculate percentage
 
