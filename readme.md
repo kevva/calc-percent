@@ -16,13 +16,13 @@ $ npm install --save calc-percent
 var calcPercent = require('calc-percent');
 
 calcPercent(10, 50);
-//=> 20
+//=> '20'
 
 calcPercent(10, 50, {suffix: '%'});
-//=> 20%
+//=> '20%'
 
 calcPercent(100 / 3, 100, {decimal: 2});
-//=> 33.33
+//=> '33.33'
 ```
 
 
