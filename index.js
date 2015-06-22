@@ -1,5 +1,4 @@
 'use strict';
-
 module.exports = function (val, total, opts) {
 	opts = opts || {};
 	opts.decimal = opts.decimal || 0;
