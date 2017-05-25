@@ -21,7 +21,7 @@ calcPercent(10, 50);
 calcPercent(10, 50, {suffix: '%'});
 //=> '20%'
 
-calcPercent(100 / 3, 100, {decimal: 2});
+calcPercent(100, 3, {decimal: 2});
 //=> '33.33'
 ```
 
